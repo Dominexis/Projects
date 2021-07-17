@@ -1,3 +1,4 @@
 Project Version       Minecraft Version       Date Released
 
 1.0.4                 1.16.5                  01/15/2021
+2.0.0                 1.17.1                  07/16/2021
