@@ -1,6 +1,5 @@
 # Projects
-Storing legacy versions of my public projects for download.
-Contained in each section you will find a file called "Version Key.txt" which contains a list of all project versions, their respective Minecraft versions when applicable, and release date.
+Storing legacy versions of my public projects for download. Aside from miscellaneous items like the list of the first million primes, the projects are stored as releases containing the MC version it goes with, the release date, and the changelog.
 Versions not listed are lost to time.
 
-Do not redistribute these files. Direct them to an official link.
+Do not redistribute these files by any means. Direct them to an official link.
